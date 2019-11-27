@@ -2,16 +2,16 @@
 
 British Columbia's approach to Digital Government is a work-in-progress, the initial framework for which has been set out at https://digital.gov.bc.ca/. What follows is a draft set of principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community.
 
-These principles have been drafted by members of the Digital & Data Division in the BC Public Service, borrowing heavily from similar principles produced by other public jurisdictions. The intent is that they be moved to their own repository on https://github.com/bcgov/, shared for feedback across the community, and eventually included on https://digital.gov.bc.ca/. 
+These principles have been drafted by a collaborative team in the BC Public Service, borrowing heavily from similar principles produced by other public jurisdictions. The intent of posting them here is to solicit feedback and iteration from the community, and eventually include them on https://digital.gov.bc.ca/. 
 
 ## Digital Principles in Context
 
-These Digital Principles are envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees engaged in applying the culture, processes, business models and technology of the internet era to meeting the needs and expectations of the people of British Columbia: 
+These Digital Principles are envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees engaged in applying the culture, processes, business models and technology of the digital era to meeting the needs and expectations of the people of British Columbia: 
 
 * Our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
-* These (DRAFT) Digital Principles, which explicitly incorporate the [Draft Principles that Guide the Province of British Columbia's Relationship with Indigenous Peoples] (https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf); 
-* A new, in-development Service Standard, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
-* For those using technology, a new in-development Technology Code of Practice <link>, a set of criteria to help government design, build and buy technology. This Code of Practice is intended to be used as a cross-government agreed standard for the development of new digital (IMIT) products and services.
+* These (DRAFT) Digital Principles, which explicitly and very intentionally incorporate the Draft Principles that Guide the Province of British Columbia's Relationship with Indigenous Peoples (https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf); 
+* As called for in the Digital Framework, an in-development Service Standard, intended to guide digital era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
+* Modeled again after leading jurisdictions, for those using technology to build government products and services, an in-development Technology Code of Practice, a set of criteria to help government design, build and buy technology. This Code of Practice is intended to be used as a cross-government agreed standard for the development of new digital (IMIT) products and services.
 
 ## Draft Principles
 
