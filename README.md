@@ -1,3 +1,5 @@
+<a id="devex-badge" rel="Exploration" href="https://github.com/BCDevExchange/assets/blob/master/README.md"><img alt="Being designed and built, but in the lab. May change, disappear, or be buggy." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/exploration.svg" title="Being designed and built, but in the lab. May change, disappear, or be buggy." /></a>
+
 # Principles for Digital BC
 
 British Columbia's approach to Digital Government is a work-in-progress, the initial framework for which has been set out at https://digital.gov.bc.ca/. What follows is a draft set of principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community.
@@ -44,4 +46,16 @@ Empower all public servants to deliver excellent digital services; support teams
 
 ### 10.      Express cultural & historical awareness & respect
 Acknowledge the historical relationships, inequity, trauma, and discrimination created by government; work in the spirit of reconciliation and B.C.’s Draft Principles guiding our relationship with Indigenous peoples (https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf). 
+
+---
+### License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+```
+Copyright 2019 Province of British Columbia
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+```
 
