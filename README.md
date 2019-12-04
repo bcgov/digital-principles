@@ -39,7 +39,7 @@ Manage information, including data, as a public asset in accordance with its val
 ### 8.       Manage risks appropriately
 Respect security, privacy and ethics, balancing them with the imperative for swift action; design risk mitigation strategies to be clear and to support iteration and agile delivery.
 
-### 9.       Commit to building internal capacity
+### 9.       Build internal capacity
 Empower all public servants to deliver excellent digital services; support teams, providing them with technology, tools and training; encourage innovation and controlled experimentation; build an organizational culture that supports constant learning.
 
 ### 10.      Express cultural & historical awareness & respect
