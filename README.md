@@ -38,8 +38,8 @@ Design and deliver solutions that are forward-thinking, adaptable and scalable; 
 ### 7.       Act as trusted information stewards
 Manage information, including data, as a public asset in accordance with its value; apply rigour around decision-making, using data to take an evidence-based approach.
 
-### 8.       Manage risks appropriately
-Respect security, privacy and ethics, balancing them with the imperative for swift action; design risk mitigation strategies to be clear and to support iteration and agile delivery.
+### 8.       Manage risks proportionately
+Model risks dynamically and specifically, balancing robustness with speed of action and development.
 
 ### 9.       Build internal capacity
 Empower all public servants to deliver excellent digital services; support teams, providing them with technology, tools and training; encourage innovation and controlled experimentation; build an organizational culture that supports constant learning.
