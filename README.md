@@ -4,7 +4,7 @@
 
 British Columbia's approach to Digital Government is a work-in-progress, the initial framework for which has been set out at https://digital.gov.bc.ca/. What follows is a draft set of principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community.
 
-An initial draft of the principles, v. 0.1, was posted in November 2019. The principles have since been refined in response to feedback from the community. The latest draft, v. 0.2, has been posted here to solicit further feedback. A future iteration of the Digital Principles will be included on https://digital.gov.bc.ca/. 
+An initial draft of the principles, [v. 0.1](https://github.com/bcgov/digital-principles/blob/master/BC_Draft_Digital_Principles_v.0.1.pdf), was posted in November 2019. The principles have since been refined in response to feedback from the community. The latest draft, v. 0.2, has been posted here to solicit further feedback. A future iteration of the Digital Principles will be included on https://digital.gov.bc.ca/. 
 
 ## Digital Principles in Context
 
