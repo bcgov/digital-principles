@@ -36,7 +36,7 @@ Collaborate, co-design and co-create with users transparently. Default towards o
 Design and deliver solutions that are forward-thinking, adaptable and scalable. Support common components, interoperability and enterprise approaches. Share work and learnings with the aim of contributing to the wider community. Strive to collect data from users only once, re-using and sharing data whenever possible. 
 
 ### 7.       Take care of information & data
-Manage information, including data, as a public asset in accordance with its value and user needs. Strive to improve the quality of information and data. Apply rigour around decision-making, using data to take a fair, ethical and evidence-based approach. Act as a trusted information steward.
+Manage information, including data, as a public asset in accordance with its value and user needs. Strive to improve the quality of information and data, incl. by developing standards to ensure that data and information can be used to benefit citizens. Apply rigour around decision-making, using data to take a fair, ethical and evidence-based approach. Act as a trusted information steward.
 
 ### 8.       Manage risks proportionately
 Promote a risk-balanced approach that addresses security and privacy. Design clear and flexible risk mitigation strategies.
