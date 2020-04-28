@@ -1,18 +1,3 @@
-# Principles for Digital BC
-
-British Columbia's approach to Digital Government is a work-in-progress, the initial framework for which has been set out at https://digital.gov.bc.ca/. What follows is a draft set of principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community.
-
-An initial draft of the principles, [v. 0.1](https://github.com/bcgov/digital-principles/blob/master/BC_Draft_Digital_Principles_v.0.1.pdf), was posted in November 2019. The principles have since been refined in response to feedback from the community. The latest draft, v. 0.2, has been posted here to solicit further feedback. A future iteration of the Digital Principles will be included on https://digital.gov.bc.ca/. 
-
-## Digital Principles in Context
-
-These Digital Principles are envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees engaged in applying the culture, processes, business models and technology of the digital era to meeting the needs and expectations of the people of British Columbia: 
-
-* Our British Columbia Public Service [Oath of Employment](https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and [Standards of Conduct](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
-* The [Draft Principles](https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf) that guide the Province of British Columbia's relationship with Indigenous Peoples; 
-* As called for in the Digital Framework, an in-development Service Standard, intended to guide digital era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
-* Modeled again after leading jurisdictions, for those using technology to build government products and services, an in-development Technology Code of Practice, a set of criteria to help government design, build and buy technology. This Code of Practice is intended to be used as a cross-government agreed standard for the development of new digital (IMIT) products and services.
-
 ## Draft Digital Principles v. 0.2
 
 ### 1.       Prioritize delivering impact for British Columbians
