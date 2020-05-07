@@ -2,7 +2,7 @@
 
 # Digital Principles for the Government of British Columbia (Version 1.0)
 
-The Digital Principles are meant to guide the work of individual public servants and vendor partners as the Province of British Columbia continues to evolve into a [Digital Government[(https://digital.gov.bc.ca/). This includes everything from the day-to-day work of individuals to the design, development and delivery of digital products and services.
+The Digital Principles are meant to guide the work of individual public servants and vendor partners as the Province of British Columbia continues to evolve into a [Digital Government](https://digital.gov.bc.ca/). This includes everything from the day-to-day work of individuals to the design, development and delivery of digital products and services.
 
 The Digital Principles were co-developed with BC public service employees and members of the wider community. The principles are meant to be considered as a set rather than individually as there is purposeful overlap among them. They should also be considered within a wider context, which includes but isn’t limited to:
 
